@@ -1,3 +1,13 @@
+# ⚠️ Repository Archived
+This repository has been archived and is no longer maintained.
+
+**Please visit our new repository:**  
+→ **[The Better Roles](https://github.com/D1GQ/TheBetterRoles)**
+
+---
+
+*This repository is read-only. All future development will continue in the new repository.*
+
 # The Better Roles
 
 A thrilling mod for *Among Us* that expands gameplay by introducing new **roles** for **Crewmates**, **Imposters**, and **Neutrals**. Plus, TBR brings a selection of **custom hats** and **commands** for an enhanced in-game experience!
